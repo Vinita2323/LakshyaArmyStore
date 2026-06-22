@@ -81,9 +81,9 @@ export const CATEGORIES = [
   { id: 'electrical', name: 'Electrical', icon: 'Zap', image: elec11 },
 ];
 
-import banner1 from '../assets/Banner/finalBanner.jpeg';
-import banner2 from '../assets/Banner/finalBanner2.jpeg';
-import banner3 from '../assets/Banner/finalBanner3.jpeg';
+import banner1 from '../assets/Banner/NewBanner1.png';
+import banner2 from '../assets/Banner/NewBanner2.png';
+import banner3 from '../assets/Banner/NewBanner3.png';
 
 export const BANNERS = [
   { id: 1, image: banner1 },
